@@ -113,3 +113,20 @@
 }
 /* 안노을 */
 
+.noeul {
+  text-decoration: underline;
+}
+
+.container {
+  background-color: antiquewhite;
+}
+
+.Information {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  text-align: center;
+}
+
+.good {
+  text-align: center;
+}
+
