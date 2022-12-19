@@ -1,5 +1,16 @@
 /* 김민기 */
-
+.minki {
+    background-color: aquamarine;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+}
+.minki div {
+    background-color: rgb(181, 181, 241);
+    padding: 1em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+}
 
 /* 박희수 */
 
