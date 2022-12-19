@@ -1,17 +1,51 @@
-@charset "utf-8";
+/* 김민기 */
 
-#myName1{
-    color: skyblue;
-}
 
-#earlyLife{
-    color: green;
-}
+/* 박희수 */
 
-#andLater{
-    color: red;
+
+/* 유선주 */
+
+
+/* 이희서 */
+
+
+/* 전우성 */
+.wsj {
+  background-color: black;color: aliceblue;padding: 10px 30px 30px 30px;
 }
-/*wooseongjeon*/
-#wooseongjeon{
-    color: 
+.wsj h2 {
+  font-size: 35px;text-align: center;
 }
+.wsj ul {
+  list-style: none
+}
+.wsj ul li {
+  padding-bottom: 10px;
+}
+.wsj .basic :nth-child(1) strong {
+  color: aqua;
+}
+.wsj .basic :nth-child(2) strong {
+  color: red;
+}
+.wsj .basic :nth-child(3) strong {
+  color: greenyellow;
+}
+.wsj .basic :nth-child(4) strong {
+  color: plum;
+}
+.wsj .fav_list :nth-child(1) strong {
+  color: royalblue;
+}
+.wsj .fav_list :nth-child(1) :nth-child(2) {
+  color: aquamarine;
+}
+.wsj .fav_list :nth-child(1) :nth-child(3) {
+  color: red;
+}
+.wsj .fav_list :nth-child(2) strong {
+  color: antiquewhite;
+}
+/* 안노을 */
+
