@@ -6,6 +6,70 @@
 
 /* 유선주 */
 
+.seon {
+  padding: 20px 40px;
+  margin: 0;
+  border-radius: 10px;
+  border: 3px solid #fdafab;
+}
+.seon h2 {
+  font-size: 30px;
+  text-align: center;
+  padding: 20px;
+  background-color: #fadee1;
+}
+
+.seon h3 {
+  font-size: 24px;
+}
+
+.seon ul {
+  position: relative;
+  padding: 0;
+  margin-bottom: 40px;
+}
+.seon ul::after {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 10px;
+  border-bottom: 2px solid #fad5ae;
+}
+.seon li {
+  position: relative;
+  height: 40px;
+  list-style-type: none;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  line-height: 40px;
+}
+.seon li::before {
+  display: inline-block;
+  position: absolute;
+  top: 12px;
+  left: -30px;
+  content: "";
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-color: #e5c1c5;
+}
+
+.seon p .colored {
+  color: crimson;
+}
+
+/* 이희서 */
+#myName1{
+    color: skyblue;
+}
+#earlyLife{
+    color: green;
+}
+#andLater{
+    color: red;
+}
 
 /* 이희서 */
 
